@@ -1,1 +1,1 @@
-TicTacToe with AI
+TicTacToe with an AI
